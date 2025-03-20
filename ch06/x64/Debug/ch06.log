@@ -1,0 +1,5 @@
+﻿  GameUI.c
+C:\Users\Administrator\Desktop\ch06\GameUI.c(19,3): error C2198: 'InputPlayerKey': 호출에 인수가 너무 적습니다.
+C:\Users\Administrator\Desktop\ch06\GameUI.c(20,3): error C2198: 'ShowPlayerInfo': 호출에 인수가 너무 적습니다.
+C:\Users\Administrator\Desktop\ch06\GameUI.c(21,3): warning C4013: 'sleep'이(가) 정의되지 않았습니다. extern은 int형을 반환하는 것으로 간주합니다.
+C:\Users\Administrator\Desktop\ch06\GameUI.c(51,59): error C2059: 구문 오류: ')'
